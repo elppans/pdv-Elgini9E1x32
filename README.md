@@ -1,4 +1,4 @@
-# pdv_elgini9x64
+# pdv_elgini9x32
 ___
 ## Observação:
 
@@ -9,7 +9,7 @@ ___
 - Dependências:
 
 1) Distro Ubuntu versão 16.04 (PDV 2.X)
-2) O Sistema DEVE ser de 64 bits
+2) O Sistema DEVE ser de 32 bits
 3) PDV devidamente configurado e atualizado
 
 - Uso:
@@ -17,14 +17,14 @@ ___
 1) Baixar e repositório e entrar no diretório
 
 ```bash
-git clone https://github.com/elppans/set_Elgini9E1x64.git
+git clone https://github.com/elppans/set_Elgini9E1x32.git
 cd set_Elgini9E1x64
 ```
 
 2) Executar Script
 
 ```bash
-./set_Elgini9E1x64.sh
+bash set_Elgini9E1x32.sh
 ```
 
 ## Imagem dos testes em PDV local  
